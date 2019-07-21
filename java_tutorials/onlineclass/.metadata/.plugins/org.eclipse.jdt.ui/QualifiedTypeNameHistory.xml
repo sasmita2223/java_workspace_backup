@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.training.pom.LoginPOM"/>
+<fullyQualifiedTypeName name="com.training.pom.Login_Admin_RTTC"/>
+<fullyQualifiedTypeName name="com.training.pom.Admin_Reports_Sales_RTTC_022"/>
+<fullyQualifiedTypeName name="com.training.pom.Admin_Reports_Sales_Tax_RTTC_023"/>
+<fullyQualifiedTypeName name="com.training.pom.Admin_Reports_Sales_Shipping_RTTC_024"/>
+<fullyQualifiedTypeName name="com.training.pom.Admin_Reports_Sales_Returns_RTTC_025"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="com.training.pom.Medium_051"/>
+<fullyQualifiedTypeName name="com.training.pom.Medium_054"/>
+<fullyQualifiedTypeName name="com.training.pom.Medium_055"/>
+<fullyQualifiedTypeName name="com.training.pom.Medium_052"/>
+<fullyQualifiedTypeName name="com.training.pom.Medium_053"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+<fullyQualifiedTypeName name="com.training.generics.ScreenShot"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="com.relevantcodes.extentreports.LogStatus"/>
+<fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentTest"/>
+<fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentReports"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="com.training.pom.sales_Returns"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
+<fullyQualifiedTypeName name="com.training.dataproviders.LoginDataProviders"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Action"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_211"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Documents/SametimeFileTransfers/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Documents/SametimeFileTransfers/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-html-0.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-java8-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/cucumber-reporting-3.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/gherkin-4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/junit-3.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Selenium/Jars/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
